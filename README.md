@@ -1,4 +1,4 @@
-# DTTrans_PV_power_forecasting
+# DTTrans: PV Power Forecasting Using Delaunay Triangulation and TransGRU
 
 If you use parts of this code, please cite as:
 ```
